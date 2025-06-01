@@ -14,7 +14,4 @@ This repository is designed to provide a collection of pre-defined personas suit
 
 To use a persona in Chat AI, simply add the link to the JSON file in the import parameter of the URL. Here's an example:
 
-```
 https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/mpimet/chat-ai-personas/refs/heads/main/assistant.json
-```
-
